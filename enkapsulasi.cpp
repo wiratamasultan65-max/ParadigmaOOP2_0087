@@ -2,7 +2,7 @@
 using namespace std;
 
 class remotelampu {
-private:
+public:
     string saklarNo[10];
 public:
      void setSaklarNo(int i, string value) {
